@@ -4,6 +4,7 @@
 A Machine Learning Project base on data provided by a member from Kaggle. The data was web scraped from Kickstarter's crowdfunding campaigns, which includes projects from 2009 to 2019. Collobarted with a team of Junior Data Scientist to create a model for kickstarter campaign success predictor.
 
 Data source: https://www.kaggle.com/yashkantharia/kickstarter-campaigns
+
 Web Scraping Source: https://webrobots.io/kickstarter-datasets/
 
 # Business Problem
